@@ -1,4 +1,11 @@
 {
+  "users": [
+    {
+      "email": "brunacrespomello@gmail.com",
+      "password": "$2a$10$/SDjWoYmNgCwtjlDVYt9reuCzXWd2JZT3SuUrLtYKUP2z/ka9WXlW",
+      "id": 1
+    }
+  ],
   "learn-http": {},
   "journals": [
     {
@@ -30,6 +37,24 @@
       "content": "segunda ",
       "created_at": "2023-01-16 08:37:48.504301",
       "updated_at": "2023-01-16 08:37:48.504301"
+    },
+    {
+      "id": "736f1ec0-9c12-11ed-bf7b-6bb607112bf0",
+      "content": "segunda",
+      "created_at": "2023-01-16 17:49:33.549032",
+      "updated_at": "2023-01-16 17:49:33.549032"
+    },
+    {
+      "id": "824f8fb0-9c12-11ed-bf7b-6bb607112bf0",
+      "content": "domingo",
+      "created_at": "2023-01-22 17:49:33.549032",
+      "updated_at": "2023-01-22 17:49:33.549032"
+    },
+    {
+      "id": "8afa0960-9c12-11ed-bf7b-6bb607112bf0",
+      "content": "niver",
+      "created_at": "2023-01-19 17:49:33.549032",
+      "updated_at": "2023-01-19 17:49:33.549032"
     }
   ]
 }
