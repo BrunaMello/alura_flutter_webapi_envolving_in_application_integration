@@ -4,6 +4,11 @@
       "email": "brunacrespomello@gmail.com",
       "password": "$2a$10$/SDjWoYmNgCwtjlDVYt9reuCzXWd2JZT3SuUrLtYKUP2z/ka9WXlW",
       "id": 1
+    },
+    {
+      "email": "bruna@gmail.com",
+      "password": "$2a$10$Dciq8Cv8j/4YGAY8wpofhOskmCr.ysGhCPrbybW6YzKSJBNT6.8ou",
+      "id": 2
     }
   ],
   "learn-http": {},
